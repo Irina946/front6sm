@@ -1,0 +1,64 @@
+.selectedModule {
+    max-width: 14%;
+    background-color: #14245E;
+    color: #FFFFFF;
+    padding-top: 50px;
+    min-height: 94vh;
+}
+
+.logo {
+    margin-bottom: 30px;
+    padding-left: 54px;
+}
+
+.allCreate {
+    display: flex;
+}
+
+.themesContainer {
+    background-color: #283872;
+    padding-top: 50px;
+    max-width: 14%;
+    min-height: 94vh;
+}
+
+.theme {
+  padding: 24px 60px 24px 50px;
+  background: none;
+  border: none;
+  text-align: left;
+  color: #FFFFFF;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  margin-right: 1px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.theme:disabled {
+  cursor: not-allowed;
+}
+
+.theme:disabled:hover {
+  cursor: not-allowed;
+  background-color: #14245E;
+}
+
+.theme:hover {
+  background-color: #14245E;
+  border-right: 1px solid #14245E;
+}
+
+.checkedTheme {
+  background-color: #14245E;
+  background-image: url('../../../img/arrow-right.svg');
+  background-repeat: no-repeat;
+  background-position: 95% 50%;
+  border-right: 1px solid #14245E;
+}
+
+.rightDiv {
+  height: auto;
+}

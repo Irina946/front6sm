@@ -1,0 +1,178 @@
+.questionNumber {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+.condition,
+.answer,
+.topic {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 15px;
+    align-items: center;
+}
+
+.answer {
+    display: flex;
+}
+
+.task {
+    display: flex;
+    align-items: center;
+    padding-bottom: 40px;
+    justify-content: center;
+}
+
+.taskContainer {
+    display: flex;
+    align-items: center;
+    font-family: "Monsterrat";
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 20px;
+    justify-content: center;
+}
+
+.nameMatrix {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+    align-items: center;
+    padding-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+.matrix {
+    font-family: "Monsterrat";
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: center;
+    color: black;
+    position: relative;
+    margin-right: 20px;
+}
+
+.matrixTD {
+    padding: 5px;
+}
+
+.matrix::before, .matrix::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    border: 1px solid #000;
+    width: 6px;
+    height: 100%;
+}
+.matrix:before {
+    left: -6px;
+    border-right: 0;
+}
+.matrix:after {
+    right: -6px;
+    border-left: 0;
+}
+
+.containerSumMatrix {
+    display: flex;
+    justify-content: center;
+}
+
+.containerMultNumMatrix {
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 20px;
+}
+
+.multiply {
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+.containerEquationsMatrix {
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+}
+
+.AXB, .AXBC, .equals {
+    font-size: 30px;
+}
+
+.AXB::after {
+    content: "=";
+    margin-left: 5px;
+}
+
+.containerEquationsMatrix3 {
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+}
+
+.containerSLU {
+    font-size: 24px;
+    padding-top: 30px;
+    font-weight: 400;
+}
+
+.containerSluScob {
+    display: flex;
+    font-size: 120px;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 100;
+    margin-top: -30px;
+}
+
+.nameVector {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+    align-items: center;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.vector {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.matrixScobVect {
+    position: relative;
+}
+
+.matrixScobVect::before, .matrixScobVect::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    border: 1px solid #000;
+    width: 6px;
+    height: 100%;
+}
+.matrixScobVect:before {
+    left: -6px;
+    border-right: 0;
+}
+.matrixScobVect:after {
+    right: 0px;
+    border-left: 0;
+}
+
+.numberVector {
+    margin-right: 10px;
+}

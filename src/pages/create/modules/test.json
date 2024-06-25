@@ -1,0 +1,354 @@
+{
+  "name": "Themes",
+  "type": "theme",
+  "themes": [
+    {
+      "title": "Матрицы и операции над ними",
+      "id": "50d6cdc3-9a9c-4b2b-bcff-da214e5e9a72",
+      "subtopic": [
+        {
+          "nameTopic": "Матрицы",
+          
+          "id": "54f271e0-7645-4fe9-810e-8946d13c0d00",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Произведение матриц",
+          
+          "id": "2d2d98c7-29c6-45c4-366b-f97eda6fb28a",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Равенство матриц",
+          
+          "id": "58a5dad0-d681-497c-1898-ea998e73a7e8",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Произведение матрицы на число",
+          
+          "id": "cbd49fbd-1d23-4496-dd03-7c2651de0215",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Св-во сложения матриц (ассоциативность)",
+          
+          "id": "0522036a-ff22-476d-fbf4-bc5294dc33d4",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Св-во сложения матриц (коммутативность)",
+          
+          "id": "7d2607ca-127b-4e48-92bc-b85e9f6f039e",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Св-во сложения матриц (есть нулевой элемент)",
+          
+          "id": "d5434fa5-4a50-4f26-552b-62fbccb28751",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Св-во сложения матриц (есть обратный элемент)",
+          
+          "id": "29ed0390-2722-462a-29c5-c9fffccdbfd0",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        }
+      ]
+    },
+    {
+      "title": "Определители",
+      "id": "a389ef60-da6e-4fc8-f267-651163445f11",
+      "subtopic": [
+        {
+          "nameTopic": "Вычислить определитель (3х3)",
+          
+          "id": "f26bf9ac-89fb-4698-cd53-26ca6fc4702a",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        }
+      ]
+    },
+    {
+      "title": "Матрицы и операции над ними",
+      "id": "50d6cdc3-9a9c-4b2b-bcff-da214e5e9a72",
+      "subtopic": [
+        {
+          "nameTopic": "Инверсия в перестановке",
+          
+          "id": "c0b8d971-fd29-4eed-4481-847a0cf1c324",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Определитель",
+          
+          "id": "b7081598-c0f6-46b9-5d35-95db5681d5e5",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Подстановка",
+          
+          "id": "4f22234e-8425-4a2b-f353-a59db7e58b62",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Инверсия в перестановке",
+          
+          "id": "fa034f5d-3e67-40b0-f4ce-7b34c0745ed9",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Св-во определителя (элементы и алг. дополнения из разных строк)",
+          
+          "id": "0f1f7cd2-990d-4462-2c64-f147597d40fb",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Св-во определителя (ноль при нулевой строке)",
+          
+          "id": "394b0911-f900-48e0-b89d-4d29944b47cd",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Св-во определителя (об общем множителе)",
+          
+          "id": "db9bc913-de89-4461-152e-0dd40d11c22a",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Св-во определителя (пропорциональные строки)",
+          
+          "id": "1b0afa75-0616-4dd4-7277-dee09530e001",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Св-во определителя (разложение на сумму определителей)",
+          
+          "id": "b338390a-0dcb-48d5-8665-a023bdac32a2",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Св-во определителя (смена знака при перестановках строк)",
+          
+          "id": "86775c40-9875-4425-469b-ae152fef9220",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Св-во определителя (транспонированием не изменяется)",
+          
+          "id": "15ddacbb-e7ef-44b5-1864-6449c54d7282",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Св-во определителя (элементарные преобразования)",
+          
+          "id": "b4b67fa8-d94f-4bab-de39-f2435c620d8e",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Св-во определителя (пропорциональные строки)",
+          
+          "id": "1b0afa75-0616-4dd4-7277-dee09530e001",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Минор элемента матрицы",
+          
+          "id": "cd6e605a-2b9d-4c0c-08cd-627a5a69cf18",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Алгебраическое дополнение",
+          
+          "id": "d5cd82df-7c65-4db1-946a-435e499f92d2",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Метод вычисления определителя (сведением к треугольному виду)",
+          
+          "id": "8c024cc5-8998-4183-a073-e61fd32a10e0",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Метод вычисления определителя (понижением порядка)",
+          
+          "id": "dd284c2c-d720-4d95-6a5b-afb6881acb3e",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        }
+      ]
+    },
+    {
+      "title": "Обратная матрица",
+      "id": "11c17e91-fa0a-4031-88df-adf86b91769c",
+      "subtopic": [
+        {
+          "nameTopic": "Обратная матрица",
+          
+          "id": "5bc6a5ed-539b-4789-f435-68b4d16e2962",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Св-во обращения матрицы (множитель)",
+          
+          "id": "771b0a9f-6a80-45be-9867-32f0e81d66a5",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Св-во обращения матрицы (от произведения)",
+          
+          "id": "3c5da037-eaf6-4a04-a7ce-597ea00dbcc9",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Св-во обращения матрицы (обратная к обратной)",
+          
+          "id": "2d8f021d-463e-4476-8796-e68303c2632a",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Св-во обращения матрицы (транспонирование обратной)",
+          
+          "id": "5dc0a5b7-d55c-4f69-98bd-e9657687d377",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Метод поиска обратной присоединенной матрицыe",
+          
+          "id": "350dba4-e4af-4374-d06b-95811f6d2246",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Метод поиска обратной матрицы (Гаусс)",
+          
+          "id": "2d4d84ac-b5ca-4bda-0376-0b8a8365e740",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Вырожденная матрица",
+          
+          "id": "b6096b57-b679-4bf0-1115-1b7d525ef909",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        }
+      ]
+    },
+    {
+      "title": "Матричные уравнения",
+      "id": "86a9b695-db55-4432-68ca-63473d8154cb",
+      "subtopic": [
+        {
+          "nameTopic": "Матричное уравнение",
+          
+          "id": "46fb98f1-b259-498f-e977-8b1840f95424",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Метод решения матричного уравнения",
+          
+          "id": "cadeab44-b9cf-4117-6caf-a5aea18b3975",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        }
+      ]
+    },
+    {
+      "title": "Ранг матрицы",
+      "id": "3a152022-4f43-4500-0883-a80d3d257564",
+      "subtopic": [
+        {
+          "nameTopic": "Ранг матрицы",
+          
+          "id": "ea26d90e-a4c7-4637-a655-a79dad9ddce5",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Метод вычисления ранга (окаймляющих миноров)",
+          
+          "id": "8f898491-0dc5-45cc-e5b9-a8e2c29229bc",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        },
+        {
+          "nameTopic": "Эквивалентность матриц",
+          
+          "id": "61c35b0f-49b9-4bc1-2c14-b2241a5686a2",
+          "isVisible": false,
+          "count": 1,
+          "selectedComplexity": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+button.myButton {
+    font-family: 'Monsterrat';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    width: max-content;
+    height: max-content;
+    border-radius: 4px;
+    padding: 10px 26px;
+    border: none;
+    background-color: #14245E;
+    color: #FFFFFF;
+    cursor: pointer;
+    transition: background-color 0.5s ease-out;
+}
+
+/* disabled */
+.myButton:disabled {
+    background-color: #A9B3D5;
+    cursor: not-allowed;
+}
+
+.myButton:hover {
+    background-color: #283872;
+}
+
+.myButton:focus {
+    background-color: #14245E;
+}
+
+.myButton:active {
+    background-color: #14245E;
+}
+
+/* size */
+/* big */
+button.big {
+    padding: 14px 25px;
+    border-radius: 3px;
+    font-size: 16px;
+    line-height: normal;
+}
+
+/* typeButton */
+/* orange */
+button.orange {
+    background-color: #E87403;
+}
+
+button.orange:focus {
+    background-color: #E87403;
+}
+
+button.orange:active {
+    background-color: #E87403;
+}
+
+button.orange:hover {
+    background-color: #FFB746;
+}
+
+
+
+/* empty */
+button.empty {
+    background-color: #FFFFFF;
+    color: #000000;
+    border: 1px solid #000000;
+    transition: color .5s ease-out, border .5s ease-out, background-color 1s ease-out;
+}
+
+button.empty:focus {
+    color: #FFFFFF;
+    border: none;
+}
+
+button.empty:active {
+    color: #FFFFFF;
+    border: none;
+}
+
+button.empty:hover {
+    color: #FFFFFF;
+    border: none;
+}
+
+button.empty:checked {
+    background-color: #14245E;
+    color: #FFFFFF;
+    border: none;
+}
+
+
+/* arrow blue */
+button.arrowBlue {
+    box-shadow: 10px 10px #000000;
+    background-image: url(../../img/arrow-right.svg);
+    background-position: 84% 52%;
+    background-repeat: no-repeat;
+    padding-right: 50px;
+    transition: box-shadow .2s ease-out, background-position .3s ease-out;
+}
+
+button.arrowBlue:hover {
+    box-shadow: 10px 10px #0C163A;
+    background-color: #283872;
+    border: none;
+    background-position: 90% 52%;
+}
+
+button.arrowBlue:focus {
+    background-color: #14245E;
+    border: none;
+    box-shadow: 10px 10px #000000;
+    background-position: 84% 52%;
+}
+
+button.arrowBlue:active {
+    background-color: #14245E;
+    border: none;
+    box-shadow: 10px 10px #000000;
+    background-position: 90% 52%;
+}
+
+/* arrow white */
+button.arrowWhite {
+    box-shadow: 10px 10px #000000;
+    background-color: #FFFFFF;
+    color: #14245E;
+    background-image: url(../../img/arrow_blue.png);
+    background-position: 84% 52%;
+    background-repeat: no-repeat;
+    padding-right: 50px;
+    transition: box-shadow .2s ease-out, background-position .3s ease-out;
+}
+
+button.arrowWhite:hover {
+    box-shadow: 10px 10px #0C163A;
+    background-color: #FFFFFF;
+    color: #283872;
+    border: none;
+    background-position: 90% 52%;
+}
+
+button.arrowWhite:focus {
+    background-color: #FFFFFF;
+    border: none;
+    color: #14245E;
+    box-shadow: 10px 10px #000000;
+    background-position: 84% 52%;
+}
+
+button.arrowWhite:active {
+    background-color: #FFFFFF;
+    border: none;
+    box-shadow: 10px 10px #000000;
+    background-position: 90% 52%;
+}
+
+
+/* active */
+button.active {
+    background-color: #14245E;
+    color: #FFFFFF;
+}

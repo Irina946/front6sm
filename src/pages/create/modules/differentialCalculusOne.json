@@ -1,0 +1,146 @@
+{
+    "name": "Themes",
+    "type": "theme",
+    "themes": [
+        {
+            "title": "Производная функции",
+            "complexity": [
+                {
+                    "easy": "0-3",
+                    "medium": "4",
+                    "hard": "5"
+                }
+            ],
+            "englishName": "derivative",
+            "isVisible": false,
+            "count": 1,
+            "selectedComplexity": 0
+        },
+        {
+            "title": "Дифференциал функции",
+            "complexity": [
+                {
+                    "easy": "0",
+                    "medium": "0",
+                    "hard": "1"
+                }
+            ],
+            "englishName": "differential",
+            "isVisible": false,
+            "count": 1,
+            "selectedComplexity": 0
+        },
+        {
+            "title": "Правила дифференцирования",
+            "complexity": [
+                {
+                    "easy": "0",
+                    "medium": "0",
+                    "hard": "1"
+                }
+            ],
+            "englishName": "derivation_rule",
+            "isVisible": false,
+            "count": 1,
+            "selectedComplexity": 0
+        },
+        {
+            "title": "Производные высших порядков",
+            "complexity": [
+                {
+                    "easy": "0",
+                    "medium": "0",
+                    "hard": "0"
+                }
+            ],
+            "englishName": "high_derivative",
+            "isVisible": false,
+            "count": 1,
+            "selectedComplexity": 0
+        },
+        {
+            "title": "Правило Лопиталя",
+            "complexity": [
+                {
+                    "easy": "0",
+                    "medium": "0",
+                    "hard": "1"
+                }
+            ],
+            "englishName": "lopital_rule",
+            "isVisible": false,
+            "count": 1,
+            "selectedComplexity": 0
+        },
+        {
+            "title": "Экстремум функции",
+            "complexity": [
+                {
+                    "easy": "0",
+                    "medium": "0",
+                    "hard": "0"
+                }
+            ],
+            "englishName": "extremum",
+            "isVisible": false,
+            "count": 1,
+            "selectedComplexity": 0
+        },
+        {
+            "title": "Выпуклость, вогнутость",
+            "complexity": [
+                {
+                    "easy": "0",
+                    "medium": "0",
+                    "hard": "0"
+                }
+            ],
+            "englishName": "convex_function",
+            "isVisible": false,
+            "count": 1,
+            "selectedComplexity": 0
+        },
+        {
+            "title": "Асимптоты",
+            "complexity": [
+                {
+                    "easy": "0",
+                    "medium": "0",
+                    "hard": "0"
+                }
+            ],
+            "englishName": "asymptote",
+            "isVisible": false,
+            "count": 1,
+            "selectedComplexity": 0
+        },
+        {
+            "title": "Применение производной для исследования функций",
+            "complexity": [
+                {
+                    "easy": "0",
+                    "medium": "0",
+                    "hard": "0"
+                }
+            ],
+            "englishName": "function_solving",
+            "isVisible": false,
+            "count": 1,
+            "selectedComplexity": 0
+        },
+        {
+            "title": "Формула Тейлора",
+            "complexity": [
+                {
+                    "easy": "0",
+                    "medium": "0",
+                    "hard": "0"
+                }
+            ],
+            "englishName": "taylor",
+            "isVisible": false,
+            "count": 1,
+            "selectedComplexity": 0
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+.mainLeft {
+    width: 50%;
+    background-image: url(../../../img/logo.png);
+    background-repeat: no-repeat;
+    background-position: 8% 5%;
+    background-size: 35%;
+    font-family: "Monsterrat";
+    padding-right: 100px;
+}
+
+.description {
+    margin-bottom: 50px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.outside {
+    display: flex;
+    padding-top: 35vh;
+    margin-left: 160px;
+    flex-direction: column;
+    align-items: left;
+}
+
+.header {
+    margin-bottom: 50px;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 60px;
+}

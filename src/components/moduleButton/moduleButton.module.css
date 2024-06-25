@@ -1,0 +1,36 @@
+.theme {
+    padding: 24px 60px 24px 50px;
+    background: none;
+    border: none;
+    text-align: left;
+    color: #FFFFFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 1px;
+    cursor: pointer;
+    width: 100%;
+}
+
+.theme:disabled {
+    cursor: not-allowed;
+}
+
+.theme:disabled:hover {
+    cursor: not-allowed;
+    background-color: #14245E;
+}
+
+.theme:hover {
+    background-color: #283872;
+    border-right: 1px solid #14245E;
+}
+
+.checked {
+    background-color: #283872;
+    background-image: url('../../img/arrow-right.svg');
+    background-repeat: no-repeat;
+    background-position: 85% 50%;
+    border-right: 1px solid #14245E;
+}
